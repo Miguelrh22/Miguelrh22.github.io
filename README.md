@@ -49,4 +49,4 @@ La conversion de moneda hace un cambio al Dolar y de ahi a las demas monedas.
 
 
 <p align="center"> <img src="media/img_3.png"/> </p>
-<p align="center"> <img width="202" height="306" src="media/img_4.png"/> </p>
+<p align="center"> <img src="media/img_4.png"/> </p>
