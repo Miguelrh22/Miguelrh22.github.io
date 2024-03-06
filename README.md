@@ -18,7 +18,7 @@ También se incluye un apartado de **Memoria** para poder guardar resultados. La
 - Restar a Memoria
 - Reiniciar Memoria
 
-<p align="center"> <img width="169" height="356" src="media/img_1.png"/> </p>
+<p align="center"> <img src="media/img_1.png"/> </p>
 
 
 
@@ -33,7 +33,7 @@ En este apartado del proyecto se han añadido las siguientes funcionalidades:
 	-Potencias
 	-Raiz Cuadrada
 
-<p align="center"> <img width="209" height="337" src="media/img_2.png"/> </p>
+<p align="center"> <img src="media/img_2.png"/> </p>
 
 ## Calculadora Conversora
 
@@ -48,5 +48,5 @@ Las unidades de longitud, volumen y temperatura permiten conversiones de distint
 La conversion de moneda hace un cambio al Dolar y de ahi a las demas monedas.
 
 
-<p align="center"> <img width="202" height="306" src="media/img_3.png"/> </p>
+<p align="center"> <img src="media/img_3.png"/> </p>
 <p align="center"> <img width="202" height="306" src="media/img_4.png"/> </p>
